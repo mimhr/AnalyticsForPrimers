@@ -1,1 +1,0 @@
-# math_conding_AnalyticsForPrimers
